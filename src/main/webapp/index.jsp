@@ -9,7 +9,7 @@
         <h1>Hello Jenkins</h1>
         <h1>Demo Project from Devops for MAVEN</h1>
         <h1>Hello SATISH SIR</h1>
-<table width="50%" bgcolor="green" align="right" border="2">
+<table width="50%" bgcolor="red" align="right" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
